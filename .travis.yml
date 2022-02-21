@@ -14,4 +14,4 @@ deploy:
   provider: heroku
   app: angular-project-marushevska
   api_key:
-    secure: 
+    secure: '912acbc0-7963-44c1-b43d-1db308ec202a'
